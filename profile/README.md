@@ -122,20 +122,6 @@ Image DPI Converter is especially useful for:
 
 Image DPI Converter is a local-first browser tool for DPI checking, metadata editing, and print-ready image resizing.
 
-Website: https://imagedpi.org/
-
-DPI Checker: https://imagedpi.org/image-dpi-checker
-
-Resize in CM: https://imagedpi.org/resize-image-in-cm
-
-Resize in MM: https://imagedpi.org/resize-image-in-mm
-
-Resize in Inch: https://imagedpi.org/resize-image-in-inch
-
-Resize for Printing: https://imagedpi.org/resize-image-for-printing
-
----
-
 ## ⚠️ Disclaimer
 
 Image DPI Converter is an independent browser-based image utility tool.
